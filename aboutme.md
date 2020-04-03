@@ -4,7 +4,7 @@
 
 
 
-## About Me
+# About Me
 
 本博客基于VuePress搭建的个人编程技术文档，由Vue团队推出的简洁高性能静态博客，详情请见官网[VuePress](https://vuepress.vuejs.org/zh/)
 
