@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [About me](aboutme.md)
-* [Hackintosh](hackintosh.md)
+* [Hackintosh](Hackintosh.md)
 
