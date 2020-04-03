@@ -20,7 +20,7 @@ top: 149
 
 **Mi Pro Hackintosh MacOS Mojave 10.14.4 **
 
-![Xiaomi NoteBook Pro](https://github.com/daliansky/XiaoMi-Pro/raw/master/wiki/XiaoMiPro_home.jpg)
+![](https://raw.githubusercontent.com/WJingC/pichome/master/img/XiaoMiPro_hack.jpg)
 
  本文仅针对小米笔记本Pro，其他机型可作参考，需要找到对应的EFI替换。本文部分内容引用：[macOS安装教程兼小米Pro安装过程记录](https://blog.daliansky.net/MacOS-installation-tutorial-XiaoMi-Pro-installation-process-records.html) 此教程大部分准备工作在win下进行已尽量通俗易懂了。
 
